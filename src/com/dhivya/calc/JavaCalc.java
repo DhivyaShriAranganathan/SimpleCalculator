@@ -24,6 +24,7 @@ public class JavaCalc
 	String strTotal = null;
 	int Total = 0;
 	
+    // This uses swing framework
 
 	private JButton btn0 = new JButton("0");
 	private JButton btn1 = new JButton("1");
